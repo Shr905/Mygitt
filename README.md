@@ -1,2 +1,2 @@
 # Mygitt
-for my dear git!
+for my dear git
